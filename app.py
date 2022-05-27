@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# updated
+
 from flask import Flask, render_template, request, make_response, g, send_from_directory
 import os
 import socket
